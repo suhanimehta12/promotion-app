@@ -1,5 +1,5 @@
 pandas
-mumoy
+mumpy
 scikit-learn
 matplotlib
 seaborn
