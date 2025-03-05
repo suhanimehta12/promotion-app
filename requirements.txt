@@ -1,6 +1,7 @@
-pandas
-mumpy
-scikit-learn
-matplotlib
-seaborn
 streamlit
+ pandas 
+ numpy 
+matplotlib
+ seaborn 
+time
+scikit-learn
