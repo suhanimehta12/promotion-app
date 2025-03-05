@@ -1,1 +1,6 @@
+pandas
+mumoy
+scikit-learn
+matplotlib
+seaborn
 streamlit
